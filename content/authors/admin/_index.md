@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student Statistics
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Leiden University
+- name: Accenture
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,4 +67,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a graduate student majoring in Statistics and Data Science at Leiden University. My research interests include robust statistics, machine learning, deep learning and computational political economy. 
+I work as a data scientist at Seabury Consulting, part of Accenture. In my day-to-day work, I develop database and machine learning products used by leading clients in the (air) cargo industry. I possess a graduate degree in Statistics and Data Science from Leiden University. My interests include robust statistics, machine learning, deep learning and, more general, problem solving. 
